@@ -2,5 +2,5 @@
 
 return [
     App\Providers\AppServiceProvider::class,
-    App\Providers\Filament\MinicodePanelProvider::class,
+    App\Providers\Filament\BlogPanelProvider::class,
 ];
